@@ -1,3 +1,4 @@
+# Main script defining all classes, neural networking, and main function
 import pygame
 import neat
 import time
